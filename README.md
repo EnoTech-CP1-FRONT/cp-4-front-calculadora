@@ -79,4 +79,10 @@ Equipe Este projeto foi desenvolvido pelo Grupo Veltrix:
 
   * RM 556645 - Mauro Carlos
 
+Link do Repositório:
+https://github.com/EnoTech-CP1-FRONT/cp-4-front-calculadora.git
+
+Link Vercel:
+
+
 ## ✨ Feito com React, café e muito Tailwind! ☕💜
