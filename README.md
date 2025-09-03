@@ -83,6 +83,6 @@ Link do Repositório:
 https://github.com/EnoTech-CP1-FRONT/cp-4-front-calculadora.git
 
 Link Vercel:
-
+https://calculadora-veltrix.vercel.app/
 
 ## ✨ Feito com React, café e muito Tailwind! ☕💜
